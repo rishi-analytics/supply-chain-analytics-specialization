@@ -51,4 +51,4 @@ So in conclusion, while the food delivery sector boomed, **supply chain ineffici
 - [Statista: Online Food Delivery - Finland Market Outlook](https://www.statista.com/outlook/emo/online-food-delivery/finland)
 - [Wolt Blog: Over €3B of Sales Generated in 2022](https://blog.wolt.com/hq/2023/12/05/with-over-e-3b-of-sales-generated-in-2022-wolts-role-for-local-businesses-has-become-significant/)
 - [McKinsey: U.S. Food Supply Chain Disruptions and Implications from COVID-19](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/us-food-supply-chain-disruptions-and-implications-from-covid-19)
-- [Eduardsson, Anton (2023): "Covid-19 and Wolt: Accelerating Development in Customer Outreach – Transforming Customer Behaviour"](https://urn.fi/URN:NBN:fi:amk-2023060722579)
+- [Eduardsson, Anton (2023): "Covid-19 and Wolt: Accelerating Development in Customer Outreach– Transforming Customer Behaviour"](https://urn.fi/URN:NBN:fi:amk-2023060722579)
