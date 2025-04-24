@@ -1,4 +1,4 @@
-###In this assigment, a dashboard was made in [scdata.ai](https://www.scdata.ai/) GCPS and following was analyzed:
+#In this assigment, a dashboard was made in [scdata.ai](https://www.scdata.ai/) GCPS and following was analyzed:
 
 1: Business GeoInfo – Regional Analysis
 - Learned how to assess and compare regions based on economic vitality, industry presence, and employment dynamics.
