@@ -31,3 +31,52 @@ A strategic framework to benchmark company performance, identify strengths/weakn
 
 ---
 
+## Module 1 Quiz Summary: Competitive Intelligence & Industry Analysis
+---
+
+This quiz assessed core concepts of competitive intelligence in supply chain analytics. The key learning areas included:
+
+### Three Layers of Competitive Intelligence Analysis
+---
+
+1. **Industry Analysis** – Evaluates market potential, trends, risk, and competition intensity  
+   - Includes: value chain analysis, market concentration, and industry trends.
+
+2. **Competition Positioning** – Positions a company within its industry to understand its comparative performance  
+   - Includes: profit frontier analysis, return vs. risk mapping, enterprise ranking.
+
+3. **Enterprise Diagnosis** – Examines the internal health of a company  
+   - Includes: KPI examination, breakdown analysis, value driver assessment.
+
+### Industry Classification – GICS
+---
+
+- **GICS** = Global Industry Classification Standard
+- Organizes companies based on their position in the **supply chain**
+- Useful for benchmarking and analyzing performance across similar companies
+- In the **Energy sector**, the most upstream sub-industries include:
+  - Oil & Gas Drilling
+  - Oil & Gas Equipment & Services
+
+### Benchmarking
+---
+
+- The primary method of competitive intelligence
+- Compares a company’s performance with industry leaders to identify gaps and improvement areas
+
+### COVID-19 Industry Impact (2020)
+---
+
+- Industries most negatively impacted:
+  - Consumer Discretionary (apparel, automobile, retail)
+  - Industrials (machinery, transportation, services)
+- Healthcare demand increased, but revenue/profit was not as negatively affected
+
+### Key Takeaways
+---
+
+- Competitive intelligence involves three levels: industry, competition, and enterprise analysis
+- Tools like GICS and benchmarking are crucial for supply chain and business strategy
+- External disruptions like pandemics highlight vulnerabilities in various sectors
+
+**Score: 80% — Module Passed**
