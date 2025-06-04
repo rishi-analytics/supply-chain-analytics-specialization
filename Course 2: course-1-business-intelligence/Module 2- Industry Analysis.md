@@ -86,3 +86,14 @@ Powered by **SCDATA.AI**, it allows quick visualization and access to cleaned, g
 
 - **Median ≠ Mean**: Median is not skewed by outliers, offering a clearer sense of typical firm size.  
 - If **median rises but total falls** → the bottom half of companies are doing better, but large firms might be shrinking.
+
+- ## 📦 Market Analysis Summary– Finland's Food Delivery Industry
+
+This mini-project focused on analyzing the **food delivery sector in Finland**, drawing insights from the broader **consumer discretionary** and **consumer staples** industries.
+
+The analysis reveals a **scaling market with strong revenue figures**, high operating costs, and slim yet **positive profit margins**. Despite heavy COGS and SG&A expenses, the sector demonstrates **operational resilience**, indicating a phase of **growth and reinvestment** rather than immediate profitability. The positive net income margin highlights the sector's potential to stabilize and expand, especially as digital adoption and consumer convenience drive demand.
+
+Overall, the food delivery industry in Finland is **cost-heavy but promising**, with signals pointing toward long-term scalability and platform-driven efficiency gains.
+
+👉 You can view the full analysis dashboard at [https://www.scdata.ai/project/57933](https://www.scdata.ai/project/57933)
+
