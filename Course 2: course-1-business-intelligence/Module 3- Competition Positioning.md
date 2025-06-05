@@ -83,3 +83,14 @@ This examination process identifies specific problems and helps guide targeted i
 Competitive positioning is not just about being big. It is about being **efficient**, **profitable**, and **financially healthy** compared to others in the same industry. Methods like **profit frontier mapping**, **risk-return analysis**, **ranking**, and **KPI benchmarking** give a clear, multi-dimensional view of how a company is really performing.
 
 ---
+## Quiz: 
+
+
+| Question | Topic                                | Correct Answer(s)                                                                                                        |
+| -------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
+| Q1       | Revenue vs. Cost Analysis            | How much more revenue per unit cost increase; Total revenue over total cost ratio                                       |
+| Q2       | Profit Frontier                      | Profit margin calculated as ratio (denominator = revenue); Harder to maintain margin as revenue increases               |
+| Q3       | Return vs. Risk in Competitiveness   | Different from financial investment; Higher liability-asset ratio can lead to lower ROA in capital-intensive industries |
+| Q4       | Combining Enterprise Rankings        | Revenue shows size but not profit; Big ≠ Strong; Profitability/ROA matters more than size                               |
+| Q5       | KPI Examination                      | Shows percentile rank; Identifies normal/high/low KPI range; Provides reference intervals                               |
+| Q6       | KPI Interpretation                   | Helps find alarming KPIs; Shows outperforming/underperforming areas vs. competitors                                     |
