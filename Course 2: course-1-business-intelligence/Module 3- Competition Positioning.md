@@ -93,4 +93,72 @@ Competitive positioning is not just about being big. It is about being **efficie
 | Q3       | Return vs. Risk in Competitiveness   | Different from financial investment; Higher liability-asset ratio can lead to lower ROA in capital-intensive industries |
 | Q4       | Combining Enterprise Rankings        | Revenue shows size but not profit; Big ≠ Strong; Profitability/ROA matters more than size                               |
 | Q5       | KPI Examination                      | Shows percentile rank; Identifies normal/high/low KPI range; Provides reference intervals                               |
-| Q6       | KPI Interpretation                   | Helps find alarming KPIs; Shows outperforming/underperforming areas vs. competitors                                     |
+| Q6       | KPI Interpretation                   | Helps find alarming KPIs; Shows outperforming/underperforming areas vs. competitors 
+
+## 📌 Project Summary
+
+This project focuses on the **competitive positioning** and **KPI examination** of **DoorDash**, with a contextual link to **Wolt** (a Finnish company now owned by DoorDash) and the broader food delivery industry. While my original focus was on Finland and Wolt, due to data availability, I pivoted to analyzing DoorDash through U.S. market data on SCData.
+
+Key findings include:
+- Strong revenue and gross profit performance
+- Persistently negative net income due to high operational costs
+- High growth rate in free cash flow and revenue
+- Mixed financial health, with solid liquidity but higher liabilities
+
+This helped understand DoorDash's position among its peers and the trade-offs between growth and profitability in capital-intensive sectors.
+
+🔗 **View the full interactive dashboard here**: [https://www.scdata.ai/project/58041](https://www.scdata.ai/project/58041)
+
+# To understand KPI chart:  
+
+## 📊 KPI Examination – DoorDash, Inc.
+
+In this section, I conduct a **KPI examination** for DoorDash using available US market data via SCData.ai. Although my original focus was on Wolt and Finland, this pivot helps maintain industry relevance and allows for deeper analysis, thanks to richer data availability for DoorDash.
+
+### 🔍 Objective:
+To understand where DoorDash stands among its peers in the **food delivery & logistics sector** across four key areas:
+- Profitability
+- Financial Health
+- Growth
+- Operational Efficiency
+
+---
+
+## 🧮 Summary Table
+
+| KPI Category         | KPI                                         | DoorDash Value | Percentile Rank | Status   | Key Insight                                                                 |
+|---------------------|----------------------------------------------|----------------|------------------|----------|------------------------------------------------------------------------------|
+| **Profitability**   | Gross Margin                                 | 0.468          | 68th             | Normal   | Healthy gross margin, above industry median (0.36)                          |
+|                     | Operating Margin                             | -0.067         | 27th             | Normal   | Struggles with operational profit; slightly better than lowest quartile     |
+|                     | Net Margin                                   | -0.066         | 33rd             | Normal   | Net profitability is weak but within the typical industry range             |
+|                     | Return on Assets                             | -0.053         | 35th             | Normal   | ROA is negative, reflecting efficiency challenges                           |
+|                     | Return on Invested Capital                   | -0.077         | 27th             | Normal   | Returns are low, showing room for strategic investment improvements         |
+| **Financial Health**| Free Cash Flow / Total Cost                  | 0.146          | 86th             | **High** | Strong cash flow efficiency; among the top 15% of peers                     |
+|                     | Current Ratio                                | 1.641          | 56th             | Normal   | Good liquidity to cover short-term obligations                              |
+|                     | Liability Asset Ratio                        | 0.371          | 18th             | **Low**  | Conservative debt structure; lower financial risk                           |
+| **Growth**          | Total Revenue Growth Rate                    | 31.1%          | 90th             | **High** | Outstanding revenue growth – industry-leading performance                   |
+|                     | Free Cash Flow Growth Rate                   | 63.2%          | 100th            | **High** | Exceptional FCF growth – highest among peers                                |
+| **Operational Eff.**| SG&A / Total Revenue                         | 36%            | 60th             | Normal   | SG&A cost structure is fairly efficient compared to peers                   |
+|                     | Cash Conversion Cycle                        | 5.35 days      | 32nd             | Normal   | Efficient cycle; quicker than industry median (43 days)                     |
+
+---
+
+## 🧠 Interpretation & Examples
+
+To make KPI Examination more relatable:
+
+- Just like **a doctor compares your lab test results (e.g., RBC count)** against a reference range (say 5th–95th percentile), here we compare DoorDash's metrics against industry benchmarks.
+  
+- Example: DoorDash’s **Gross Margin (46.8%)** is better than the median (36%) and falls between the **75th and 90th percentiles**, meaning it’s performing better than most competitors in this area.
+
+- On the flip side, a KPI like **Operating Margin (-6.7%)** falls below the 50th percentile — suggesting operational inefficiencies or high fixed costs.
+
+---
+
+## ✅ Key Takeaways
+
+- **Strengths**: DoorDash is a top performer in **revenue growth** and **cash flow generation**, with a solid **gross margin** and **low debt levels**.
+- **Weaknesses**: It still struggles with **profitability ratios** such as operating and net margin, and has **moderate efficiency issues** in return-based KPIs.
+- **Opportunity**: Leveraging strong growth and cash flow to streamline operations and improve long-term profitability.
+
+---
