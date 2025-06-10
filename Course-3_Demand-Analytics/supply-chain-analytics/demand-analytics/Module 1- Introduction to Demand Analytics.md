@@ -31,33 +31,30 @@ This module sets the stage for the course by highlighting the importance of dema
 ----
 
 > # 📋 Assignment Summary – Demand Planning & Forecasting at Wolt Market
-> 
 > ## Objective
-> The goal of this assignment was to illustrate the practical impact of demand planning and forecasting through a realistic, detailed, and impactful example from industry or personal experience.
-> 
-> ---
-> 
-> ## 📦 Example: *Optimizing Inventory for Wolt Market's Grocery Deliveries*  
-> Wolt Market, a Finnish grocery delivery service, leverages real-time analytics to forecast demand by considering factors like purchasing behavior, local events, and weather. For instance, during the summer, demand spikes for grilling supplies and beverages—Wolt anticipates these trends to ensure optimal stock levels.
-> 
-> ---
-> 
-> ## 🔍 Relevance to Demand Forecasting  
-> This case demonstrates how accurate forecasting enables Wolt to align inventory with anticipated customer needs, minimizing stockouts and operational inefficiencies.
-> 
-> ---
-> 
-> ## Social & Economic Impact
-> 
-> **Economic:**  
-> - Reduces waste  
-> - Boosts profitability  
-> - Ensures efficient supply chain operations  
-> 
-> **Social:**  
-> - Increases customer satisfaction through reliable, timely delivery  
-> - Supports the local economy by collaborating with regional suppliers  
-> - Wolt’s strategy empowers consumers to enjoy more free time by providing convenient access to essential goods—an impactful improvement in modern urban living
+The goal of this assignment was to illustrate the practical impact of demand planning and forecasting through a realistic, detailed, and impactful example from industry or personal experience.
+ 
+---
+ 
+## 📦 Example: *Optimizing Inventory for Wolt Market's Grocery Deliveries*  
+Wolt Market, a Finnish grocery delivery service, leverages real-time analytics to forecast demand by considering factors like purchasing behavior, local events, and weather. For instance, during the summer, demand spikes for grilling supplies and beverages—Wolt anticipates these trends to ensure optimal stock levels.
+
+--- 
+## 🔍 Relevance to Demand Forecasting  
+This case demonstrates how accurate forecasting enables Wolt to align inventory with anticipated customer needs, minimizing stockouts and operational inefficiencies.
+
+---
+## Social & Economic Impact
+
+**Economic:**  
+- Reduces waste  
+- Boosts profitability  
+- Ensures efficient supply chain operations  
+
+**Social:**  
+- Increases customer satisfaction through reliable, timely delivery  
+- Supports the local economy by collaborating with regional suppliers  
+- Wolt’s strategy empowers consumers to enjoy more free time by providing convenient access to essential goods—an impactful improvement in modern urban living
 
 ## ✅ Quiz Summary: Module 1 – Introduction to Demand Analytics (Score: 100%)
 
@@ -68,4 +65,5 @@ This module sets the stage for the course by highlighting the importance of dema
 | Q3       | Ops vs Marketing views on forecasting      | Marketing exaggerates; operations is conservative |
 | Q4       | Role of demand analytics                   | Aligns demand & supply, reduces cost, improves satisfaction |
 
-> All answers were correct. Solid grasp of demand planning foundations demonstrated.
+All answers were correct. Solid grasp of demand planning foundations demonstrated.
+---
