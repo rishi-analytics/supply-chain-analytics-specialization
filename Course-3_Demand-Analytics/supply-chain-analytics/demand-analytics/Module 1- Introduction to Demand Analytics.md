@@ -35,17 +35,17 @@ The goal of this assignment was to illustrate the practical impact of demand pla
 
 ---
 
-## 📦 Example: *Optimizing Inventory for Wolt Market's Grocery Deliveries*
+## Example: *Optimizing Inventory for Wolt Market's Grocery Deliveries*
 Wolt Market, a Finnish grocery delivery service, leverages real-time analytics to forecast demand by considering factors like purchasing behavior, local events, and weather. For instance, during the summer, demand spikes for grilling supplies and beverages—Wolt anticipates these trends to ensure optimal stock levels.
 
 ---
 
-## 🔍 Relevance to Demand Forecasting
+## Relevance to Demand Forecasting
 This case demonstrates how accurate forecasting enables Wolt to align inventory with anticipated customer needs, minimizing stockouts and operational inefficiencies.
 
 ---
 
-## 🌍 Social & Economic Impact
+## Social & Economic Impact
 
 **Economic:**
 - Reduces waste  
@@ -57,3 +57,13 @@ This case demonstrates how accurate forecasting enables Wolt to align inventory 
 - Supports the local economy by collaborating with regional suppliers  
 - Wolt’s strategy empowers consumers to enjoy more free time by providing convenient access to essential goods—an impactful improvement in modern urban living
 
+## ✅ Quiz Summary: Module 1 – Introduction to Demand Analytics (Score: 100%)
+
+| Question | Topic                                      | Correct Answer |
+|----------|--------------------------------------------|----------------|
+| Q1       | Effects of poor demand planning            | Expedited shipping, lost sales, overtime, excess inventory |
+| Q2       | Demand variability factors                 | Seasonality, price/promo, time, competition |
+| Q3       | Ops vs Marketing views on forecasting      | Marketing exaggerates; operations is conservative |
+| Q4       | Role of demand analytics                   | Aligns demand & supply, reduces cost, improves satisfaction |
+
+> All answers were correct. Solid grasp of demand planning foundations demonstrated.
