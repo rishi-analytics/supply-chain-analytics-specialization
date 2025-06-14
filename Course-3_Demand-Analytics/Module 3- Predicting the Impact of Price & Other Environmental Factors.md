@@ -71,10 +71,9 @@
   - Residual plot (Time in Month)
   - Line fit plot
 
-🔗 [📊 View Excel Regression Project](https://unioulu-my.sharepoint.com/:x:/g/personal/rkesari21_students_oamk_fi/ETPtvwzXeO1PsP-NTjw2p7MB3H1xsX2sI0OEIMdAA8cSfA?e=Tfm99l)
+🔗 [📊 View Excel Regression Project](https://unioulu-my.sharepoint.com/:x:/g/personal/rkesari21_students_oamk_fi/EdNUqYjyw5tFnpgwlrFgmmoBr-J6-2mluQUXq_k737tRvg?e=YRXMd3)
 
-
-
+---
 
 # 🧪 Quiz Summary – Residuals & Model Assumptions
 
